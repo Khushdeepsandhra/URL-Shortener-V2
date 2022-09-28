@@ -7,8 +7,8 @@
     "telegram",
     "shortener"
   ],
-  "website": "https://github.com/DeepSandhra/",
-  "repository": "https://github.com/DeepSandhra/URL-Shortener-V2",
+  "website": "https://github.com/khushdeepsandhra/",
+  "repository": "https://github.com/Khushdeepsandhra/URL-Shortener-V2",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token from @botfather",
